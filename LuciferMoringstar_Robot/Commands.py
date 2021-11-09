@@ -121,11 +121,11 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "🔎Search Here", switch_inline_query_current_chat=''
+                                "🎬CHANNEL🎬", url="https://t.me/c/1452592706/1"
                             ),
                         InlineKeyboardButton
                             (
-                                "🤖Group", url="https://t.me/efcinema"
+                                "🎥GROUP🎥", url="https://t.me/efcinema"
                             )
                     ],
                     [
